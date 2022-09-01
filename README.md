@@ -12,7 +12,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a FrontEnd React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan 🇵🇰.
+I am a FrontEnd React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> from Pakistan 🇵🇰.
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
