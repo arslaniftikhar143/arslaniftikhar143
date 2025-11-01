@@ -68,11 +68,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arslaniftikhar143&show_icons=true&layout=compact&hide_border=true&theme=tokyonight" alt="top languages" />
 </p>
 
-<!-- Streak: keep it or remove this block -->
-<p>
-  <img src="https://streak-stats.demolab.com?user=arslaniftikhar143&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
 <!-- Trophies (optional) -->
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=arslaniftikhar143&margin-w=5&margin-h=5&no-bg=true&no-frame=true&theme=onestar" alt="trophies" />
