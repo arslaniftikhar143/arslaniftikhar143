@@ -1,7 +1,8 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center">Hi 👋, I'm Muhammad Arslan Tayyab</h1>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=230&section=header&text=Muhammad%20Arslan%20Tayyab&fontSize=42&fontAlignY=35&desc=React%20•%20Next.js%20•%20MERN&descAlignY=58&fontColor=ffffff)
+
 <h3 align="center">React / Next.js / MERN Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
+
+<img align="right" alt="Coding" width="380" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=arslaniftikhar143&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
@@ -25,7 +26,6 @@
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="left"> 
-  <!-- React Native listed (uses React icon) -->
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react native" width="40" height="40"/> 
   </a> 
@@ -58,17 +58,23 @@
   </a> 
 </p>
 
-<!-- GitHub Stats -->
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="left">GitHub Stats</h3>
+
+<!-- Stats (dark theme, borderless) -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=arslaniftikhar143&show_icons=true&locale=en" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arslaniftikhar143&show_icons=true&hide_border=true&theme=tokyonight" alt="stats" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arslaniftikhar143&show_icons=true&locale=en&layout=compact" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arslaniftikhar143&show_icons=true&layout=compact&hide_border=true&theme=tokyonight" alt="top languages" />
 </p>
+
+<!-- Streak: keep it or remove this block -->
 <p>
-  <img src="https://streak-stats.demolab.com?user=arslaniftikhar143" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=arslaniftikhar143&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+<!-- Trophies (optional) -->
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=arslaniftikhar143&margin-w=5&margin-h=5" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arslaniftikhar143&margin-w=5&margin-h=5&no-bg=true&no-frame=true&theme=onestar" alt="trophies" />
 </p>
+
