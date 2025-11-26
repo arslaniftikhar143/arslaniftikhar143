@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=230&section=header&text=Muhammad%20Arslan%20Tayyab&fontSize=42&fontAlignY=35&desc=React%20•%20Next.js%20•%20MERN&descAlignY=58&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=230&section=header&text=Arslan%20Iftikhar&fontSize=42&fontAlignY=35&desc=React%20•%20Next.js%20•%20MERN&descAlignY=58&fontColor=ffffff)
 
 <h3 align="center">React / Next.js / MERN Stack Developer</h3>
 
