@@ -6,8 +6,6 @@
 
 <p>
   <a href="https://www.arslaniftikhar.tech"><strong>Visit my portfolio →</strong></a>
-  ·
-  <a href="https://arslan-iftikhar.blogspot.com">Read my engineering notes</a>
 </p>
 
 <p>
