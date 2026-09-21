@@ -1,68 +1,64 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=230&section=header&text=Arslan%20Iftikhar&fontSize=42&fontAlignY=35&desc=React%20•%20Next.js%20•%20MERN&descAlignY=58&fontColor=ffffff)
+<div align="center">
 
-<h3 align="center">React / Next.js / MERN Stack Developer</h3>
+# Muhammad Arslan
 
-<img align="right" alt="Coding" width="380" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
+### Full-stack developer building SaaS, web applications, and internal tools
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=arslaniftikhar143&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
-</p>
-
-- 💻 Full-stack developer with **2 years** of experience  
-- 🌱 Currently exploring **Next.js** & **advanced backend patterns**  
-- 💬 Ask me about **React, React Native, Next.js, MERN**  
-- 📫 Reach me at **arslaniftikhar533@gmail.com**  
-- ⚡ Fun fact: *Coffee + lo-fi beats = peak coding mode ☕🎧*  
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/arslan-iftikhar/" target="_blank" rel="noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://www.instagram.com/_arslaniftikhar" target="_blank" rel="noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
-</p>
-
-<h3 align="left">Languages & Tools:</h3>
-<p align="left"> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react native" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-</p>
-
-<h3 align="left">GitHub Stats</h3>
-
-<!-- Stats (dark theme, borderless) -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arslaniftikhar143&show_icons=true&layout=compact&hide_border=true&theme=tokyonight" alt="top languages" />
+  <a href="https://www.arslaniftikhar.tech"><strong>Visit my portfolio →</strong></a>
+  ·
+  <a href="https://arslan-iftikhar.blogspot.com">Read my engineering notes</a>
 </p>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=arslaniftikhar143&label=Profile%20views&color=2563eb&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Focus-SaaS%20%26%20AI-111827?style=flat" alt="SaaS and AI" />
+  <img src="https://img.shields.io/badge/Location-Pakistan-0f766e?style=flat" alt="Pakistan" />
+</p>
 
+</div>
+
+## About me
+
+I design and ship production-ready products across the stack. My work combines clear interfaces, dependable APIs, practical data models, and deployment workflows that help teams keep moving.
+
+- Building with **React, Next.js, TypeScript, Node.js, Laravel, and PHP**
+- Designing data-backed products with **PostgreSQL and MongoDB**
+- Shipping with **Docker, AWS, CI/CD, and modern testing workflows**
+- Interested in **SaaS architecture, AI integrations, performance, and accessibility**
+- Open to thoughtful product collaborations and freelance engineering work
+
+## Selected work
+
+| Project | What I built |
+| --- | --- |
+| [Portfolio and blog](https://www.arslaniftikhar.tech) | A multilingual portfolio, case studies, and publishing system |
+| **Schooliee** | A multi-tenant school management SaaS for everyday administration |
+| **Meridian Dental** | A healthcare web application focused on clear patient workflows |
+| **Open-source work** | Reusable interfaces, product experiments, and developer tooling |
+
+See the [full project list and case studies](https://www.arslaniftikhar.tech) for context, screenshots, and live links.
+
+## Technology
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,laravel,php,postgres,mongodb,aws,docker,tailwind,git" alt="React, Next.js, TypeScript, Node.js, Laravel, PHP, PostgreSQL, MongoDB, AWS, Docker, Tailwind CSS, and Git" />
+</p>
+
+## How I work
+
+I prefer small, observable releases over large handoffs: understand the user problem, make the tradeoffs explicit, ship a useful slice, and improve it with real feedback. Good documentation and accessible UI are part of the implementation, not afterthoughts.
+
+## Connect
+
+- **Portfolio:** [arslaniftikhar.tech](https://www.arslaniftikhar.tech)
+- **Email:** [arslaniftikhar533@gmail.com](mailto:arslaniftikhar533@gmail.com)
+- **Blogger:** [Arslan Iftikhar](https://arslan-iftikhar.blogspot.com)
+- **Indie Hackers:** [@arslaniftikhar533](https://www.indiehackers.com/arslaniftikhar533)
+- **Contra:** [Arslan Iftikhar](https://contra.com/lrla_i_v4he2cd2/work)
+
+<div align="center">
+
+### Building useful software, one dependable release at a time.
+
+</div>
