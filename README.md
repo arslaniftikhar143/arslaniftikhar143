@@ -28,21 +28,12 @@ I design and ship production-ready products across the stack. My work combines c
 - Interested in **SaaS architecture, AI integrations, performance, and accessibility**
 - Open to thoughtful product collaborations and freelance engineering work
 
-## Selected work
-
-| Project | What I built |
-| --- | --- |
-| [Portfolio and blog](https://www.arslaniftikhar.tech) | A multilingual portfolio, case studies, and publishing system |
-| **Schooliee** | A multi-tenant school management SaaS for everyday administration |
-| **Meridian Dental** | A healthcare web application focused on clear patient workflows |
-| **Open-source work** | Reusable interfaces, product experiments, and developer tooling |
-
 See the [full project list and case studies](https://www.arslaniftikhar.tech) for context, screenshots, and live links.
 
 ## Technology
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,laravel,php,postgres,mongodb,aws,docker,tailwind,git" alt="React, Next.js, TypeScript, Node.js, Laravel, PHP, PostgreSQL, MongoDB, AWS, Docker, Tailwind CSS, and Git" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,postgres,mongodb,aws,docker,tailwind,git" alt="React, Next.js, TypeScript, Node.js, PostgreSQL, MongoDB, AWS, Docker, Tailwind CSS, and Git" />
 </p>
 
 ## How I work
@@ -53,9 +44,6 @@ I prefer small, observable releases over large handoffs: understand the user pro
 
 - **Portfolio:** [arslaniftikhar.tech](https://www.arslaniftikhar.tech)
 - **Email:** [arslaniftikhar533@gmail.com](mailto:arslaniftikhar533@gmail.com)
-- **Blogger:** [Arslan Iftikhar](https://arslan-iftikhar.blogspot.com)
-- **Indie Hackers:** [@arslaniftikhar533](https://www.indiehackers.com/arslaniftikhar533)
-- **Contra:** [Arslan Iftikhar](https://contra.com/lrla_i_v4he2cd2/work)
 
 <div align="center">
 
