@@ -22,7 +22,7 @@
 
 I design and ship production-ready products across the stack. My work combines clear interfaces, dependable APIs, practical data models, and deployment workflows that help teams keep moving.
 
-- Building with **React, Next.js, TypeScript, Node.js, Laravel, and PHP**
+- Building with **React, Next.js, TypeScript, Node.js**
 - Designing data-backed products with **PostgreSQL and MongoDB**
 - Shipping with **Docker, AWS, CI/CD, and modern testing workflows**
 - Interested in **SaaS architecture, AI integrations, performance, and accessibility**
